@@ -1,0 +1,14 @@
+.report {
+    width: 350px;
+    background-color: darkkhaki;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.icon {
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+}

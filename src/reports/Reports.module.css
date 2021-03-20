@@ -1,0 +1,26 @@
+.reportsBlock {
+    height: 100vh;
+    background-color: darkgrey;
+}
+.container {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+
+;
+
+}
+.title {
+    background-color: darkmagenta;
+}
+.reports {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

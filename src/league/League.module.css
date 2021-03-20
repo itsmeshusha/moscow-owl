@@ -1,6 +1,6 @@
-.mainBlock {
+.leagueBlock {
     height: 100vh;
-    background-color: pink;
+    background-color: cornflowerblue;
 }
 .container {
 
@@ -9,15 +9,15 @@
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
-}
-.text {
-    width: 500px;
-    background-color: aliceblue;
 }
 .photo {
     width: 400px;
     height: 500px;
     background-color: antiquewhite;
+}
+.text {
+    width: 500px;
+    background-color: aliceblue;
 }

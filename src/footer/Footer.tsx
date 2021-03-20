@@ -5,7 +5,7 @@ function Footer() {
     return (
         <div className={style.footer}>
             <div className={style.container}>
-                <h2 className={style.title}>Name Surname</h2>
+                <h2 className={style.title}>Имя Фамилия</h2>
                 <div className={style.socialMedia}>
                     <div className={style.icon}></div>
                     <div className={style.icon}></div>

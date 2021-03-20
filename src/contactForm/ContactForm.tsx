@@ -5,13 +5,13 @@ function ContactForm() {
     return (
         <div className={style.contacts}>
                 <div className={style.container}>
-                <h2 className={style.title}>My Contacts</h2>
+                <h2 className={style.title}>Участвовать в проекте</h2>
 
                 <form className={style.forms}>
-                    <input className={style.input} type="text" placeholder="Your fullname" />
-                    <input className={style.input} type="text" placeholder="Your email" />
+                    <input className={style.input} type="text" placeholder="Ваше имя и фамилия" />
+                    <input className={style.input} type="text" placeholder="Ваш email" />
                     <textarea className={style.textarea}
-                              placeholder="Details"></textarea>
+                              placeholder="Сообщение"></textarea>
                     <input className={style.button} type="submit" />
                 </form>
 

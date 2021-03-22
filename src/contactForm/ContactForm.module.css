@@ -1,7 +1,6 @@
 .contacts {
     height: 100vh;
-
-    background-color: rgb(193, 131, 255);
+    background-color: #1f1f20;
     display: flex;
     align-items: center;
     justify-content: center;

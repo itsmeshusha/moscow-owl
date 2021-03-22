@@ -1,5 +1,5 @@
 .footer {
-
+    background-color: #1f1f20;
 }
 
 .container {
@@ -21,4 +21,16 @@
     height: 30px;
     width: 30px;
     background-color: rgb(240, 152, 21);
+}
+
+@media screen and (max-width: 300px) {
+    .socialMedia {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+    }
+    .icon {
+        padding: 10px;
+    }
 }

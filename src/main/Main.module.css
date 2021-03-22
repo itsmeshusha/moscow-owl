@@ -1,9 +1,8 @@
 .mainBlock {
     min-height: 100vh;
-    background-color: pink;
+    background-color: #1f1f20;
 }
 .container {
-
     height: 100%;
     width: 80%;
     margin: 0 auto;
@@ -11,13 +10,26 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    padding: 10px;
 }
 .text {
     width: 500px;
-    background-color: aliceblue;
+    color: #fdf8ff;
+}
+.text h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+    margin: 0;
+    line-height: 1.2;
 }
 .photo {
     width: 400px;
     height: 500px;
     background-color: antiquewhite;
+}
+
+@media screen and (max-width: 1124px) {
+    .container {
+        justify-content: center;
+    }
 }

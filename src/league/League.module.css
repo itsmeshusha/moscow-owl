@@ -19,7 +19,20 @@
 }
 .text {
     width: 500px;
-    background-color: aliceblue;
+    color: #fdf8ff;
 }
+.text h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 35px;
+    margin: 0;
+    line-height: 1.2;
+}
+.description {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.8;
+}
+
 
 

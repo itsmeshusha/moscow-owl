@@ -17,7 +17,11 @@
 }
 
 .title {
-
+    font-family: 'Roboto Slab', serif;
+    font-size: 35px;
+    color: #fdf8ff;
+    margin: 0;
+    line-height: 1.2;
 }
 
 .forms {

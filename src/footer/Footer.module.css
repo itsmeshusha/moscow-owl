@@ -1,5 +1,6 @@
 .footer {
     background-color: #1f1f20;
+    min-height: 20vh;
 }
 
 .container {
@@ -8,7 +9,21 @@
     justify-content: space-between;
     align-items: center;
 }
-
+.container h3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: #fdf8ff;
+    margin: 0;
+    line-height: 1.2;
+}
+.title {
+    font-family: 'Roboto Slab', serif;
+    font-weight: normal;
+    color: #fdf8ff;
+    margin: 0;
+    line-height: 1.2;
+}
 .socialMedia {
     border: 1px solid;
     width: 300px;

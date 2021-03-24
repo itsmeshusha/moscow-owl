@@ -30,12 +30,15 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+
 }
 
 .icon {
     height: 30px;
     width: 30px;
-    background-color: rgb(240, 152, 21);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 @media screen and (max-width: 300px) {

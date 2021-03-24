@@ -15,7 +15,10 @@
 .photo {
     width: 400px;
     height: 500px;
-    background-color: antiquewhite;
+    margin: 50px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .text {
     width: 500px;

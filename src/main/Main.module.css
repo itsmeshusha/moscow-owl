@@ -16,7 +16,7 @@
 .text {
     width: 1200px;
     color: #fdf8ff;
-    padding: 20px;
+    margin: 60px;
     display: flex;
     flex-direction: column;
     justify-content: center;

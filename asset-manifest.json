@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/moscow-owl/static/css/main.fc359680.chunk.css",
-    "main.js": "/moscow-owl/static/js/main.ac116e3d.chunk.js",
-    "main.js.map": "/moscow-owl/static/js/main.ac116e3d.chunk.js.map",
+    "main.css": "/moscow-owl/static/css/main.683edf75.chunk.css",
+    "main.js": "/moscow-owl/static/js/main.aa81feec.chunk.js",
+    "main.js.map": "/moscow-owl/static/js/main.aa81feec.chunk.js.map",
     "runtime-main.js": "/moscow-owl/static/js/runtime-main.1d7eeb48.js",
     "runtime-main.js.map": "/moscow-owl/static/js/runtime-main.1d7eeb48.js.map",
-    "static/js/2.cad581ae.chunk.js": "/moscow-owl/static/js/2.cad581ae.chunk.js",
-    "static/js/2.cad581ae.chunk.js.map": "/moscow-owl/static/js/2.cad581ae.chunk.js.map",
+    "static/js/2.2ee02d28.chunk.js": "/moscow-owl/static/js/2.2ee02d28.chunk.js",
+    "static/js/2.2ee02d28.chunk.js.map": "/moscow-owl/static/js/2.2ee02d28.chunk.js.map",
     "static/js/3.71e110eb.chunk.js": "/moscow-owl/static/js/3.71e110eb.chunk.js",
     "static/js/3.71e110eb.chunk.js.map": "/moscow-owl/static/js/3.71e110eb.chunk.js.map",
     "index.html": "/moscow-owl/index.html",
-    "static/css/main.fc359680.chunk.css.map": "/moscow-owl/static/css/main.fc359680.chunk.css.map",
-    "static/js/2.cad581ae.chunk.js.LICENSE.txt": "/moscow-owl/static/js/2.cad581ae.chunk.js.LICENSE.txt",
-    "static/media/strix.4ebc95bf.jpg": "/moscow-owl/static/media/strix.4ebc95bf.jpg"
+    "static/css/main.683edf75.chunk.css.map": "/moscow-owl/static/css/main.683edf75.chunk.css.map",
+    "static/js/2.2ee02d28.chunk.js.LICENSE.txt": "/moscow-owl/static/js/2.2ee02d28.chunk.js.LICENSE.txt",
+    "static/media/force.bb175765.jpg": "/moscow-owl/static/media/force.bb175765.jpg",
+    "static/media/strix.4ebc95bf.jpg": "/moscow-owl/static/media/strix.4ebc95bf.jpg",
+    "static/media/telegram.c7ec60d6.jpg": "/moscow-owl/static/media/telegram.c7ec60d6.jpg",
+    "static/media/tour1.283c63f5.jpg": "/moscow-owl/static/media/tour1.283c63f5.jpg",
+    "static/media/tour2.0b0c2d72.jpg": "/moscow-owl/static/media/tour2.0b0c2d72.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d7eeb48.js",
-    "static/js/2.cad581ae.chunk.js",
-    "static/css/main.fc359680.chunk.css",
-    "static/js/main.ac116e3d.chunk.js"
+    "static/js/2.2ee02d28.chunk.js",
+    "static/css/main.683edf75.chunk.css",
+    "static/js/main.aa81feec.chunk.js"
   ]
 }

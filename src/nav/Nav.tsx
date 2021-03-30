@@ -7,7 +7,7 @@ function Nav() {
         <div className={style.nav}>
             <a href={""}>Главная</a>
             <a href={""}>Лига</a>
-            <a href={""}>Отчеты</a>
+            <a href={""}>Статистика</a>
             <a href={""}>Участвовать в проекте</a>
             <a href={""}>Контакты</a>
         </div>

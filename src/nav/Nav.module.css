@@ -12,3 +12,9 @@
     font-size: 20px;
     font-weight: 200;
 }
+
+@media screen and (max-width: 440px) {
+    .nav a {
+        font-size: 13px;
+    }
+}

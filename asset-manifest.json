@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/moscow-owl/static/css/main.ca33cf51.chunk.css",
-    "main.js": "/moscow-owl/static/js/main.46ccb7ef.chunk.js",
-    "main.js.map": "/moscow-owl/static/js/main.46ccb7ef.chunk.js.map",
+    "main.css": "/moscow-owl/static/css/main.43c5a44c.chunk.css",
+    "main.js": "/moscow-owl/static/js/main.a4e61c7a.chunk.js",
+    "main.js.map": "/moscow-owl/static/js/main.a4e61c7a.chunk.js.map",
     "runtime-main.js": "/moscow-owl/static/js/runtime-main.2eb8504f.js",
     "runtime-main.js.map": "/moscow-owl/static/js/runtime-main.2eb8504f.js.map",
     "static/js/2.ffed2b06.chunk.js": "/moscow-owl/static/js/2.ffed2b06.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.1a5a4c92.chunk.js": "/moscow-owl/static/js/3.1a5a4c92.chunk.js",
     "static/js/3.1a5a4c92.chunk.js.map": "/moscow-owl/static/js/3.1a5a4c92.chunk.js.map",
     "index.html": "/moscow-owl/index.html",
-    "static/css/main.ca33cf51.chunk.css.map": "/moscow-owl/static/css/main.ca33cf51.chunk.css.map",
+    "static/css/main.43c5a44c.chunk.css.map": "/moscow-owl/static/css/main.43c5a44c.chunk.css.map",
     "static/js/2.ffed2b06.chunk.js.LICENSE.txt": "/moscow-owl/static/js/2.ffed2b06.chunk.js.LICENSE.txt",
     "static/media/force.bb175765.jpg": "/moscow-owl/static/media/force.bb175765.jpg",
     "static/media/strix.4ebc95bf.jpg": "/moscow-owl/static/media/strix.4ebc95bf.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.2eb8504f.js",
     "static/js/2.ffed2b06.chunk.js",
-    "static/css/main.ca33cf51.chunk.css",
-    "static/js/main.46ccb7ef.chunk.js"
+    "static/css/main.43c5a44c.chunk.css",
+    "static/js/main.a4e61c7a.chunk.js"
   ]
 }

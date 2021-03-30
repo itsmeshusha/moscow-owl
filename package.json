@@ -11,13 +11,14 @@
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.2",
     "gh-pages": "^3.1.0",
+    "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
     "typescript": "^4.2.3",
     "web-vitals": "^1.1.1"
   },
-  "homepage": "https://itsmeshusha.github.io/moscow-owl" ,
+  "homepage": "https://itsmeshusha.github.io/moscow-owl",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -1,0 +1,42 @@
+.footer {
+  background-color: #1f1f20;
+  min-height: 20vh;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    h3 {
+      font-family: 'Roboto Slab', serif;
+      font-size: 15px;
+      font-weight: lighter;
+      color: #fdf8ff;
+      margin: 0;
+      line-height: 1.2;
+    }
+
+    .socialMedia {
+      width: 300px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      @media screen and (max-width: 300px) {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+      }
+
+      .icon {
+        height: 30px;
+        width: 30px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+
+      }
+    }
+  }
+}

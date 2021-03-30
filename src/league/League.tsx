@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './League.module.css'
+import style from './League.module.scss'
 import force from '../common/assets/force.jpg'
 
 

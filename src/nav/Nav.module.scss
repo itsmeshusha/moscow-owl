@@ -1,3 +1,5 @@
+@import '../common/styles/sass/variables';
+
 .nav {
   margin: 0 80px;
   width: 900px;
@@ -7,8 +9,8 @@
 
   a {
     text-decoration: none;
-    color: #fdf8ff;
-    font-family: 'Roboto Slab', serif;
+    color: $textColor;
+    font-family: $fontTitle;
     font-size: 20px;
     font-weight: 200;
     @media screen and (max-width: 440px) {

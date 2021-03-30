@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/moscow-owl/static/css/main.683edf75.chunk.css",
-    "main.js": "/moscow-owl/static/js/main.aa81feec.chunk.js",
-    "main.js.map": "/moscow-owl/static/js/main.aa81feec.chunk.js.map",
-    "runtime-main.js": "/moscow-owl/static/js/runtime-main.1d7eeb48.js",
-    "runtime-main.js.map": "/moscow-owl/static/js/runtime-main.1d7eeb48.js.map",
-    "static/js/2.2ee02d28.chunk.js": "/moscow-owl/static/js/2.2ee02d28.chunk.js",
-    "static/js/2.2ee02d28.chunk.js.map": "/moscow-owl/static/js/2.2ee02d28.chunk.js.map",
-    "static/js/3.71e110eb.chunk.js": "/moscow-owl/static/js/3.71e110eb.chunk.js",
-    "static/js/3.71e110eb.chunk.js.map": "/moscow-owl/static/js/3.71e110eb.chunk.js.map",
+    "main.css": "/moscow-owl/static/css/main.ca33cf51.chunk.css",
+    "main.js": "/moscow-owl/static/js/main.46ccb7ef.chunk.js",
+    "main.js.map": "/moscow-owl/static/js/main.46ccb7ef.chunk.js.map",
+    "runtime-main.js": "/moscow-owl/static/js/runtime-main.2eb8504f.js",
+    "runtime-main.js.map": "/moscow-owl/static/js/runtime-main.2eb8504f.js.map",
+    "static/js/2.ffed2b06.chunk.js": "/moscow-owl/static/js/2.ffed2b06.chunk.js",
+    "static/js/2.ffed2b06.chunk.js.map": "/moscow-owl/static/js/2.ffed2b06.chunk.js.map",
+    "static/js/3.1a5a4c92.chunk.js": "/moscow-owl/static/js/3.1a5a4c92.chunk.js",
+    "static/js/3.1a5a4c92.chunk.js.map": "/moscow-owl/static/js/3.1a5a4c92.chunk.js.map",
     "index.html": "/moscow-owl/index.html",
-    "static/css/main.683edf75.chunk.css.map": "/moscow-owl/static/css/main.683edf75.chunk.css.map",
-    "static/js/2.2ee02d28.chunk.js.LICENSE.txt": "/moscow-owl/static/js/2.2ee02d28.chunk.js.LICENSE.txt",
+    "static/css/main.ca33cf51.chunk.css.map": "/moscow-owl/static/css/main.ca33cf51.chunk.css.map",
+    "static/js/2.ffed2b06.chunk.js.LICENSE.txt": "/moscow-owl/static/js/2.ffed2b06.chunk.js.LICENSE.txt",
     "static/media/force.bb175765.jpg": "/moscow-owl/static/media/force.bb175765.jpg",
     "static/media/strix.4ebc95bf.jpg": "/moscow-owl/static/media/strix.4ebc95bf.jpg",
-    "static/media/telegram.c7ec60d6.jpg": "/moscow-owl/static/media/telegram.c7ec60d6.jpg",
-    "static/media/tour1.283c63f5.jpg": "/moscow-owl/static/media/tour1.283c63f5.jpg",
-    "static/media/tour2.0b0c2d72.jpg": "/moscow-owl/static/media/tour2.0b0c2d72.jpg"
+    "static/media/telegram.c7ec60d6.jpg": "/moscow-owl/static/media/telegram.c7ec60d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d7eeb48.js",
-    "static/js/2.2ee02d28.chunk.js",
-    "static/css/main.683edf75.chunk.css",
-    "static/js/main.aa81feec.chunk.js"
+    "static/js/runtime-main.2eb8504f.js",
+    "static/js/2.ffed2b06.chunk.js",
+    "static/css/main.ca33cf51.chunk.css",
+    "static/js/main.46ccb7ef.chunk.js"
   ]
 }
